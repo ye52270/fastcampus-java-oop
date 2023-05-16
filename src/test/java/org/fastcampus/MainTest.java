@@ -9,5 +9,6 @@ class MainTest {
   void test1() {
     String[] args = {"3", "1", "2"};
     Main.main(args);
+
   }
 }
